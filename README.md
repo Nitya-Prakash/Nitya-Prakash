@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nitya-Prakash
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning full stack web development using MERN
-- 📫 Contact- code.nitya@gmail.com
+- 📫 Contact- prakashnitya07@gmail.com
 
 <!---
 Nitya-Prakash/Nitya-Prakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
