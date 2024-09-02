@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a college student<br>👯 I’m looking to collaborate on innovative web development projects , AI ML projects and ideas, and also some Java based applications.<br>🌱 I’m currently learning full stack web development using MERN.⚡ Fun fact
+🔭 I’m currently a college student<br>👯 I’m looking to collaborate on innovative web development projects , AI ML projects and ideas, and also some Java based applications.<br>🌱 I’m currently learning full stack web development using MERN.
 
 
 ## 🌐 Socials:
